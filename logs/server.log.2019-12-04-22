@@ -1,0 +1,5 @@
+[2019-12-04 22:04:21,785] INFO Processed session termination for sessionid: 0x100000f162d0001 (org.apache.zookeeper.server.PrepRequestProcessor)
+[2019-12-04 22:04:21,788] INFO Closed socket connection for client /127.0.0.1:35196 which had sessionid 0x100000f162d0001 (org.apache.zookeeper.server.NIOServerCnxn)
+[2019-12-04 22:04:26,501] INFO Processed session termination for sessionid: 0x100000f162d0000 (org.apache.zookeeper.server.PrepRequestProcessor)
+[2019-12-04 22:04:26,504] INFO Closed socket connection for client /127.0.0.1:35138 which had sessionid 0x100000f162d0000 (org.apache.zookeeper.server.NIOServerCnxn)
+[2019-12-04 22:04:27,362] INFO Got user-level KeeperException when processing sessionid:0x100000f162d0002 type:multi cxid:0x148 zxid:0x133 txntype:-1 reqpath:n/a aborting remaining multi ops. Error Path:/admin/preferred_replica_election Error:KeeperErrorCode = NoNode for /admin/preferred_replica_election (org.apache.zookeeper.server.PrepRequestProcessor)
